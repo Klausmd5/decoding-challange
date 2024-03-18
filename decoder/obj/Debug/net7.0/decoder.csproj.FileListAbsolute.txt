@@ -1,0 +1,15 @@
+/home/klaus/Downloads/rk/decoder/decoder/bin/Debug/net7.0/file1.txt
+/home/klaus/Downloads/rk/decoder/decoder/bin/Debug/net7.0/decoder
+/home/klaus/Downloads/rk/decoder/decoder/bin/Debug/net7.0/decoder.deps.json
+/home/klaus/Downloads/rk/decoder/decoder/bin/Debug/net7.0/decoder.runtimeconfig.json
+/home/klaus/Downloads/rk/decoder/decoder/bin/Debug/net7.0/decoder.dll
+/home/klaus/Downloads/rk/decoder/decoder/bin/Debug/net7.0/decoder.pdb
+/home/klaus/Downloads/rk/decoder/decoder/obj/Debug/net7.0/decoder.GeneratedMSBuildEditorConfig.editorconfig
+/home/klaus/Downloads/rk/decoder/decoder/obj/Debug/net7.0/decoder.AssemblyInfoInputs.cache
+/home/klaus/Downloads/rk/decoder/decoder/obj/Debug/net7.0/decoder.AssemblyInfo.cs
+/home/klaus/Downloads/rk/decoder/decoder/obj/Debug/net7.0/decoder.csproj.CoreCompileInputs.cache
+/home/klaus/Downloads/rk/decoder/decoder/obj/Debug/net7.0/decoder.dll
+/home/klaus/Downloads/rk/decoder/decoder/obj/Debug/net7.0/refint/decoder.dll
+/home/klaus/Downloads/rk/decoder/decoder/obj/Debug/net7.0/decoder.pdb
+/home/klaus/Downloads/rk/decoder/decoder/obj/Debug/net7.0/decoder.genruntimeconfig.cache
+/home/klaus/Downloads/rk/decoder/decoder/obj/Debug/net7.0/ref/decoder.dll
